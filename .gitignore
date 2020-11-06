@@ -1,0 +1,6 @@
+AG-CodeChallenge/Library/
+AG-CodeChallenge/Temp/
+AG-CodeChallenge/.vs/
+AG-CodeChallenge/AG-CodeChallenge.csproj
+AG-CodeChallenge/AG-CodeChallenge.sln
+# remember to check for *.meta files arent ignored in gitignore_global in Docs folder
